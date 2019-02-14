@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AutomaticClassification-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AutomaticClassification_v3/target/AutomaticClassification-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
